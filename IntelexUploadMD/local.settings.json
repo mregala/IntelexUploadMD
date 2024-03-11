@@ -1,0 +1,20 @@
+{
+  "ExcelFilePath": "C:\\Users\\regalam\\Documents\\ILX\\SuppliersForUpload.xlsx",
+  "LocationApiEndpoint": "SysLocationEntity",
+  "SubLocation1ApiEndpoint": "EHSIncidentMang_csSubLocation1Object",
+  "SubLocation2ApiEndpoint": "EHSIncidentMang_csSubLocation2Object",
+  "SubLocation3ApiEndpoint": "EHSIncidentMang_csSubLocation3Object",
+  "SupplierApiEndpoint": "EHSIncidentMang_ContractorObject",
+  "IntelexURLPreProd": "https://preprod-na.intelex.com/Login3/OdfjellTest/api/v2/object/",
+  "IntelexURLProd": "https://clients.intelex.com/Login3/OTUS/api/v2/object/",
+  "TargetWorksheetNameLocation": "location",
+  "TargetWorksheetNameSubLocation1": "subloc1_all",
+  "TargetWorksheetNameSubLocation2": "subloc2_all",
+  "TargetWorksheetNameSubLocation3": "subloc3_all",
+  "TargetWorksheetNameSupplier": "supplier_all",
+  "TargetWorksheetNameSubLocation2Delete": "subloc2_delete",
+  "TargetWorksheetNameSubLocation3Delete": "subloc3_delete",
+  "ApiUsername": "Marvin.Regala@odfjell.com",
+  "ApiPassword": "Odfjell2024!!"
+}
+
